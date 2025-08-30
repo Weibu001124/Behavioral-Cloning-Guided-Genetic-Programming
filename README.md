@@ -22,4 +22,4 @@ BCGP improves crossover by preserving relationships between parent operators and
 conda activate bcgp
 
 # Run an example
-python3 main.py f1 1000 100 50 0
+python3 main.py 2025 1 70000000 500 1000
