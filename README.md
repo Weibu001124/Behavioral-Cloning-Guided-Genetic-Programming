@@ -3,7 +3,6 @@
 This repository implements the **Behavioral Cloning Guided Genetic Programming (BCGP)** algorithm for **Symbolic Regression (SR)**.
 
 BCGP improves crossover by preserving relationships between parent operators and subtrees, using a multilayer perceptron to guide subtree evolution.  
-It outperforms ellynGP and GP-GOMEA on benchmark problems from the SR benchmark and the Feyman SR database.
 
 ## Features
 - Guided subtree crossover via behavioral cloning
