@@ -8,7 +8,6 @@ BCGP improves crossover by preserving relationships between parent operators and
 - Guided subtree crossover via behavioral cloning
 - Supports multiple benchmark datasets
 - Easy to configure parameters for experiments
-- Log and JSON output for results analysis
 
 ## Requirements
 - Python 3.8+
