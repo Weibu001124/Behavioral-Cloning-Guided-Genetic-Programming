@@ -1,6 +1,6 @@
 # BCGP: Behavioral Cloning Guided Genetic Programming
 
-This repository implements the **Behavioral Cloning Guided Genetic Programming (BCGP)** algorithm for **Symbolic Regression (SR)**.
+This repository implements the **Behavioral Cloning Guided Genetic Programming (BCGP)** algorithm for symbolic regression.
 
 BCGP improves crossover by preserving relationships between parent operators and subtrees, using a multilayer perceptron to guide subtree evolution.  
 
